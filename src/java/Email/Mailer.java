@@ -14,7 +14,8 @@ import javax.mail.internet.MimeMessage;
 
 
 public class Mailer {
-    public static void send(String to,String subject,String msg) throws MessagingException {
+  \
+      public static void send(String to,String subject,String msg) throws MessagingException {
         final String user="rajatkokila96@gmail.com";
          final String pass="57578352";
           String host="localhost";
