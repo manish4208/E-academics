@@ -1,0 +1,27 @@
+SMAP
+addvideo_jsp.java
+JSP
+*S JSP
+*F
++ 0 addvideo.jsp
+addvideo.jsp
++ 1 dheader.jspf
+dheader.jspf
++ 2 footer.jspf
+footer.jspf
+*L
+1:51
+1#1,71:52
+2#0,15:123
+17,8:139
+24,3:147
+27,3:151
+29,2:154
+31:156,6
+32:162
+33,2:164
+34,3:166
+37,5:170
+41,29:175
+1#2,47:203
+*E

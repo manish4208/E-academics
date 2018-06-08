@@ -1,0 +1,16 @@
+SMAP
+admin_jsp.java
+JSP
+*S JSP
+*F
++ 0 dheader.jspf
+dheader.jspf
++ 1 admin.jsp
+admin.jsp
++ 2 footer.jspf
+footer.jspf
+*L
+1,71:50
+1#1,21:121
+1#2,47:141
+*E

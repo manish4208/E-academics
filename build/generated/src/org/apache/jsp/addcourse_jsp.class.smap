@@ -1,0 +1,16 @@
+SMAP
+addcourse_jsp.java
+JSP
+*S JSP
+*F
++ 0 dheader.jspf
+dheader.jspf
++ 1 addcourse.jsp
+addcourse.jsp
++ 2 footer.jspf
+footer.jspf
+*L
+1,70:50
+1#1,52:120
+1#2,47:171
+*E
